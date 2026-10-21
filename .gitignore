@@ -1,0 +1,57 @@
+# Keil MDK编译输出
+Project/Objects/
+Project/Listings/
+Project/DebugConfig/
+*.uvguix.*
+*.bak
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.omf
+*.plg
+*.prevdebug
+*.tra
+*.dep
+*.map
+*.crf
+*.d
+*.o
+*.axf
+*.htm
+*.build_log.htm
+*.iex
+*.fed
+
+# 编译中间文件
+*.obj
+*.lib
+*.a
+*.hex
+*.bin
+*.elf
+
+# 用户配置（个人设置，不要上传）
+*.uvoptx
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE设置
+.vscode/
+.idea/
+*.code-workspace
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+
+# 备份文件
+*.orig
